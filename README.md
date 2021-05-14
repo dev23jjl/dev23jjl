@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @23johanningmeierjl-bit or better known as 23johanningmeierjl!
-- 🌐 I'm a web developer who mainly deals with HTML, CSS, and Vanilla JS.
+- 🌐 I'm a web developer and student who now loves Nuxt.js and Tailwind CSS!
 - 👀 I’m interested in learning more of how to apply Javascript to enrich webpages and furthering my skills in web development.
-- 🌱 I’m currently learning how to make my own website template (which is more of a self-teaching process).
+- 🌱 I’m currently learning how to use Nuxt.js and Tailwind CSS to make my own website template (which is more of a self-teaching process).
 - 💞️ I’m looking to collaborate on any project where my skills could be used to help. I'm normally busy, but if you need my help - feel free to reach out to me.
 - 📖 I want to learn other coding languages (like node.js or any other javascript language for web development)
 - 🧠 I love to learn and often test out new programs (probably one of my largest distractions)
-- 📫 How to reach me - DM me on keybase.io [@jamesj23](https://keybase.io/jamesj23)
+- 📫 How to reach me - Contact me via this repositories' discussions tab or proceed [here](https://github.com/23johanningmeierjl-bit/23johanningmeierjl-bit/discussions).
