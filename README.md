@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @23johanningmeierjl (or you can call me James)!
-- 🌐 I'm a web developer and student who now loves Nuxt.js and Windi CSS!
-- 👀 I’m interested in learning more of how to apply Javascript to enrich webpages and furthering my skills in web development.
-- 🌱 I’m currently learning how to use Nuxt.js, Windi CSS, and Graph CMS to make my own website.
-- 💞️ I’m looking to collaborate on any project where my skills could be used to help. I'm normally busy, but if you need my help - feel free to reach out to me.
-- 📖 I want to learn other coding languages (like Node.js or any other Javascript language for web development)
-- 🧠 I love to learn and often test out new programs (probably one of my largest distractions... coding could be one as well)
-- 📫 How to reach me - Contact me via this repositories' discussions tab or proceed [here](https://github.com/23johanningmeierjl/23johanningmeierjl/discussions).
+# Nuxt 3 Minimal Starter
+
+We recommend to look at the [documentation](https://v3.nuxtjs.org).
+
+## Setup
+
+Make sure to install the dependencies
+
+```bash
+yarn install
+```
+
+## Development
+
+Start the development server on http://localhost:3000
+
+```bash
+yarn dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+yarn build
+```
+
+Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
