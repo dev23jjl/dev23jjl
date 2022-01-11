@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dev23jjl (or you can call me James)!
-- 🌐 I'm a web developer and student who now loves Nuxt.js and Windi CSS!
-- 👀 I’m interested in learning more of how to apply Javascript to enrich webpages and furthering my skills in web development.
+- 🌐 I'm a web developer and student who loves Vue Frameworks (Nuxt, Gridsome, etc.) and Windi CSS!
+- 👀 I’m interested in learning more of how to use Vue Frameworks to further my web development skills and create awesome web apps!
 - 🌱 I’m currently learning how to use Gridsome, Windi CSS, and Sanity to make my own website.
 - 💞️ I’m looking to collaborate on any project where my skills could be used to help. I'm normally busy, but if you need my help - feel free to reach out to me.
-- 📖 I want to learn other coding languages (like Node.js or any other Javascript language for web development)
+- 📖 I want to learn other coding languages (like TypeScript 😎)
 - 🧠 I love to learn and often test out new programs (probably one of my largest distractions... coding could be one as well)
 - 📫 How to reach me - Contact me via this repositories' discussions tab or proceed [here](https://github.com/dev23jjl/dev23jjl/discussions).
+- 💻 Check out my website in development at [23jjl.vercel.app](23jjl.vercel.app)
