@@ -6,4 +6,4 @@
 - 📖 I want to learn other coding languages (like TypeScript 😎)
 - 🧠 I love to learn and often test out new programs (probably one of my largest distractions... coding could be one as well)
 - 📫 How to reach me - Contact me via this repositories' discussions tab or proceed [here](https://github.com/dev23jjl/dev23jjl/discussions).
-- 💻 Check out my website in development at [23jjl.vercel.app](23jjl.vercel.app)
+- 💻 Check out my website in development at [23jjl.vercel.app](https://23jjl.vercel.app)
