@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev23jjl (or you can call me James)!
 - 🌐 I'm a web developer and student who loves Vue Frameworks (Nuxt, Gridsome, etc.) and Windi CSS!
 - 👀 I’m interested in learning more of how to use Vue Frameworks to further my web development skills and create awesome web apps!
-- 🌱 I’m currently learning how to use Gridsome, Windi CSS, and Sanity to make my own website.
+- 🌱 I’m currently learning how to use Nuxt, Windi CSS, and Strapi to make my own website.
 - 💞️ I’m looking to collaborate on any project where my skills could be used to help. I'm normally busy, but if you need my help - feel free to reach out to me.
 - 📖 I want to learn other coding languages (like TypeScript 😎)
 - 🧠 I love to learn and often test out new programs (probably one of my largest distractions... coding could be one as well)
