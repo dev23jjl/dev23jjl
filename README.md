@@ -8,3 +8,5 @@
 - #### 📖 I want to learn other languages (whether spoken 🔉 or programming ⌨️)
 - #### 🧠 I love to learn and often test out new software 😎
 - #### 💻 Check out my website in development at [dev23jjl.github.io](https://dev23jjl.github.io/) (currently in development)
+
+[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=dev23jjl)](https://github.com/anuraghazra/github-readme-stats)
