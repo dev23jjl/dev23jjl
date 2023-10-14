@@ -5,6 +5,6 @@
 - #### 💞️ I can help with any project where my skills could be used to help. I'm normally busy, but if you need my help - feel free to reach out to me.
 - #### 📖 I want to learn other languages (whether spoken 🔉 or programming ⌨️)
 - #### 🧠 I love to learn and often test out new software 😎
-- #### 💻 Check out my Substack [23jjl.substack.com](https://23jjl.substack.com/)
+- #### 💻 Check out my website [23jjl.nuxt.space](https://23jjl.nuxt.space/)
 
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=dev23jjl)](https://github.com/anuraghazra/github-readme-stats)
